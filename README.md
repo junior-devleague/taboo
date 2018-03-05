@@ -31,7 +31,7 @@ Instructor should prepare the following:
 
 1. Form groups if needed.
 2. Distribute cards facedown to each group.
-3. Have a student draw a card.
+3. Have a student in each group draw a card.
 
 ### On your Mark, Get Set, Go!   
 1. This student tries to explain the word to the group without using the 'taboo' words.
