@@ -14,7 +14,7 @@ Instructors | 1+
 Prep Time | 20-30 minutes
 Activity Time | 15 - 20 minutes
 Noise Level | Moderate - Loud
-Beware | Students with harder cards may not be able to say anything at all! You could implement a system where they can call a friend if stuck ...etc. Shy students may not want to shout out the answer.
+Beware | Students with harder cards may not be able to say anything at all! You could implement a system where they can call a friend if stuck. Shy students may not want to shout out the answer.
 
 ## Preparation
 
@@ -40,4 +40,4 @@ Instructor should prepare the following:
 1. It can be point based (points awarded if the team guesses correctly), or based on the number of cards they are able to go through.
 
 ### Next Round
-1. Next person draws a card and tries to explain it. 
+1. Next person draws a card and tries to explain it.
